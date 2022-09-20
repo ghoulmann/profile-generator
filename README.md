@@ -1,3 +1,3 @@
-# Generic Flask Start Exercise
+# Flask and Faker
 
 port faker generators to web output
